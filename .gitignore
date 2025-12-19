@@ -1,0 +1,26 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Arduino build files
+*.hex
+*.elf
+
+# MATLAB / Simulink temporary files
+*.asv
+*.autosave
+*.slxc
+*.mdl.autosave
+*.m~
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+*.tmp
+
+# IDE settings
+.vscode/
+.idea/
